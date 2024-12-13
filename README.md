@@ -26,7 +26,7 @@ This project was developed under tight time constraints during a hackathon. Whil
 
 4. **API for Frontend Integration**:
    - Provides endpoints for generating responses and retrieving chat history.
-   - Ready for integration with the [Codev Frontend](https://github.com/iamnirmank/Codev-Frontend).
+   - Ready for integration with the [Codev Frontend](https://github.com/iamnirmank/Llama-Impact-Hack-App-2024).
 
 5. **Scalable and Modular Design**:
    - Designed to allow easy addition of new features and integration points.
@@ -48,7 +48,7 @@ This project was developed under tight time constraints during a hackathon. Whil
   - Implemented chat history management and context extraction.
 
 - **Frontend Prototype**:
-  - [Frontend repository](https://github.com/iamnirmank/Codev-Frontend) completed but not yet integrated with the backend.
+  - [Frontend repository](https://github.com/iamnirmank/Llama-Impact-Hack-App-2024) completed but not yet integrated with the backend.
 
 ---
 
@@ -86,4 +86,4 @@ This project was built during a hackathon under time constraints. We’re proud 
 
 ---
 
-For more information or to explore the frontend prototype, visit the [Codev Frontend Repository](https://github.com/iamnirmank/Codev-Frontend).
+For more information or to explore the frontend prototype, visit the [Codev Frontend Repository](https://github.com/iamnirmank/Llama-Impact-Hack-App-2024).
